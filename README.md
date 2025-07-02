@@ -37,6 +37,7 @@ my-python-journey/
 |--------------|-------------|
 | 🎯 [Perfect Guesser](mini_projects/01_perfect_guesser.py) | Number guessing game with user feedback and count |
 | 🎮 [Snake-Water-Gun Game](basics/07_snake_water_gun_game.py) | Classic game against computer using random logic |
+| 🆕 [High-Score-Tracker](mini_projects/02_highscore_tracker.py) | Stores and updates the highest game score using a text file |
 
 ---
 
