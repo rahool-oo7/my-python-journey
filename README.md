@@ -87,5 +87,5 @@ All code is for learning & practice.
 Want to learn Python or AI together?
 Feel free to explore, fork this repo, or connect with me on GitHub.
 
-[![GitHub](https://img.shields.io/badge/GitHub-rahool-oo7-181717?style=for-the-badge&logo=github)](https://github.com/rahool-oo7)
+[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/rahool-oo7)
 
