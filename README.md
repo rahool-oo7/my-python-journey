@@ -16,8 +16,21 @@ From basic syntax to object-oriented programming and mini projects — everythin
 ---
 
 ## 📁 Repository Structure
-<pre><code>```bash my-python-journey/ │ ├── basics/ # Beginner-level Python programs (strings, loops, OOP, etc.) ├── dsa/ # [Upcoming] Data Structures & Algorithms ├── mini_projects/ # Fun mini projects like games and utilities ├── assignments/ # Coding tasks and learning checkpoints ├── raw_files/ # Older or unrefined code before cleaning and organizing │ ├── README.md # This file — overview of the repository ├── requirements.txt # Python dependencies used in various files ├── setup_virtual_env_mac.txt # Guide to setting up Python venv on Mac ├── starter_program.py # A small Python script to test environment setup └── .gitignore # Ignores venv, cache files, and output files ```</code></pre>
----
+```
+my-python-journey/
+│
+├── basics/             # Beginner-level Python programs (strings, loops, OOP, etc.)
+├── dsa/                # [Upcoming] Data Structures & Algorithms
+├── mini_projects/      # Fun mini projects like games and utilities
+├── assignments/        # Coding tasks and learning checkpoints
+├── raw_files/          # Older or unrefined code before cleaning and organizing
+│
+├── README.md           # This file — overview of the repository
+├── requirements.txt    # Python dependencies used in various files
+├── setup_virtual_env_mac.txt  # Guide to setting up Python venv on Mac
+├── starter_program.py  # A small Python script to test environment setup
+└── .gitignore          # Ignores venv, cache files, and output files
+```
 
 ## 🚀 Mini Projects
 
