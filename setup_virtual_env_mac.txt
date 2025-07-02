@@ -1,0 +1,25 @@
+# SETUP: Virtual Environment with Pre-installed Libraries (macOS)
+
+# Step 1: Navigate to your project directory
+cd ~/Documents/my-python-journey  # change path if needed
+
+# Step 2: Create a virtual environment
+python3 -m venv venv
+
+# Step 3: Activate the virtual environment
+source venv/bin/activate
+
+# Step 4: Upgrade pip (optional but recommended)
+pip install --upgrade pip
+
+# Step 5: Install commonly-used libraries
+pip install numpy pandas matplotlib requests openai
+
+# Step 6: Create a sample Python file inside the project
+touch starter_program.py
+
+# Step 7: Run the sample program (after editing it)
+python starter_program.py
+
+# To deactivate the virtual environment
+deactivate
