@@ -60,7 +60,7 @@ my-python-journey/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/my-python-journey.git
+   git clone https://github.com/rahool-oo7/my-python-journey.git
    cd my-python-journey
 2. **Create & activate a virtual environment (Mac)**
    python3 -m venv venv
