@@ -88,6 +88,6 @@ Want to learn Python or AI together?
 Feel free to explore, fork this repo, or connect with me on GitHub.
 
 <a href="https://github.com/rahool-oo7">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="18" height="18">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" height="22">
 </a>
 
