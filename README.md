@@ -30,7 +30,6 @@ my-python-journey/
 ├── setup_virtual_env_mac.txt # Guide to setting up Python venv on Mac
 ├── starter_program.py # A small Python script to test environment setup
 └── .gitignore # Ignores venv, cache files, and output files
-
 ---
 
 ## 🚀 Mini Projects
@@ -62,10 +61,12 @@ my-python-journey/
    ```bash
    git clone https://github.com/rahool-oo7/my-python-journey.git
    cd my-python-journey
+   
 2. **Create & activate a virtual environment (Mac)**
    python3 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
+   
 3. **Run a Python file**
    python3 basics/01_string_list_set_ops.py #python3 because of mac
 
