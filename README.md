@@ -16,7 +16,7 @@ From basic syntax to object-oriented programming and mini projects — everythin
 ---
 
 ## 📁 Repository Structure
-
+```
 my-python-journey/
 │
 ├── basics/             # Beginner-level Python programs (strings, loops, OOP, etc.)
@@ -30,7 +30,7 @@ my-python-journey/
 ├── setup_virtual_env_mac.txt  # Guide to setting up Python venv on Mac
 ├── starter_program.py  # A small Python script to test environment setup
 └── .gitignore          # Ignores venv, cache files, and output files
-
+```
 ## 🚀 Mini Projects
 
 | Project Name | Description |
