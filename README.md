@@ -16,6 +16,7 @@ From basic syntax to object-oriented programming and mini projects — everythin
 ---
 
 ## 📁 Repository Structure
+<pre><code>
 ```
 my-python-journey/
 │
@@ -31,6 +32,7 @@ my-python-journey/
 ├── starter_program.py  # A small Python script to test environment setup
 └── .gitignore          # Ignores venv, cache files, and output files
 ```
+</code></pre>
 
 ## 🚀 Mini Projects
 
