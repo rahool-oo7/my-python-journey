@@ -87,5 +87,7 @@ All code is for learning & practice.
 Want to learn Python or AI together?
 Feel free to explore, fork this repo, or connect with me on GitHub.
 
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/rahool-oo7)
+<a href="https://github.com/rahool-oo7">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40">
+</a>
 
