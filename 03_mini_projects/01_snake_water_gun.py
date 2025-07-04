@@ -38,3 +38,5 @@ else:
 
     else:
         print("You Win!")
+
+    # We could also use pattern in this scenario for result using basic operation
