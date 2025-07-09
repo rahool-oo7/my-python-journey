@@ -31,3 +31,5 @@ class CollegeStudent(Person, Student):
 # Create object of CollegeStudent
 student = CollegeStudent("Ritesh", 101, "Presidency University")
 student.show_details()
+student2 = CollegeStudent("Rahul", 103, "Presidency University")
+student2.show_details()
